@@ -1,0 +1,7 @@
+BLUE GREEN NO_FILL 3
+5
+Square	1	143	156	Blue	NO_FILL
+Square	2	130	299	Blue	NO_FILL
+Triangle	3	431	150	368	246	577	208	Blue	Orange
+Hexagon	4	349	361	Blue	Green
+Circle	5	693	215	733	302	Blue	NO_FILL
